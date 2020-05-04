@@ -1,0 +1,17 @@
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.csprojAssemblyReference.cache
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.csproj.CoreCompileInputs.cache
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.RazorAssemblyInfo.cache
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.RazorAssemblyInfo.cs
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.AssemblyInfoInputs.cache
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.AssemblyInfo.cs
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\bin\Debug\netcoreapp2.1\AnimalRescueService.deps.json
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\bin\Debug\netcoreapp2.1\AnimalRescueService.runtimeconfig.json
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\bin\Debug\netcoreapp2.1\AnimalRescueService.runtimeconfig.dev.json
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\bin\Debug\netcoreapp2.1\AnimalRescueService.dll
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\bin\Debug\netcoreapp2.1\AnimalRescueService.pdb
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\bin\Debug\netcoreapp2.1\AnimalRescueApp.dll
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\bin\Debug\netcoreapp2.1\AnimalRescueApp.pdb
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.RazorTargetAssemblyInfo.cache
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.csproj.CopyComplete
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.dll
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueService\obj\Debug\netcoreapp2.1\AnimalRescueService.pdb

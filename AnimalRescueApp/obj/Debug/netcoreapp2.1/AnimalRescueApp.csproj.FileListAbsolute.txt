@@ -1,0 +1,11 @@
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\obj\Debug\netcoreapp2.1\AnimalRescueApp.csprojAssemblyReference.cache
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\obj\Debug\netcoreapp2.1\AnimalRescueApp.csproj.CoreCompileInputs.cache
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\obj\Debug\netcoreapp2.1\AnimalRescueApp.AssemblyInfoInputs.cache
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\obj\Debug\netcoreapp2.1\AnimalRescueApp.AssemblyInfo.cs
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\bin\Debug\netcoreapp2.1\AnimalRescueApp.deps.json
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\bin\Debug\netcoreapp2.1\AnimalRescueApp.runtimeconfig.json
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\bin\Debug\netcoreapp2.1\AnimalRescueApp.runtimeconfig.dev.json
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\bin\Debug\netcoreapp2.1\AnimalRescueApp.dll
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\bin\Debug\netcoreapp2.1\AnimalRescueApp.pdb
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\obj\Debug\netcoreapp2.1\AnimalRescueApp.dll
+C:\Users\shikha.beramolla\source\repos\AnimalRescueApp\AnimalRescueApp\obj\Debug\netcoreapp2.1\AnimalRescueApp.pdb
